@@ -1,5 +1,6 @@
 # 👋 Olá, eu sou Lukas da cruz
-<img align='center' src="octocat-1763126010845.png="215">
+<img align='center' src="https://incluir-link-do-seu-avatar-aqui.png" width="215">
+
 
 ## 🌍 Sobre mim
 - 💻 Desenvolvedor apaixonado por software livre e colaboração  
