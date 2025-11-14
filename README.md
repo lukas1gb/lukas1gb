@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou Lukas da cruz
 
-<!--
-**lukas1gb/lukas1gb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 Sobre mim
+- 💻 Desenvolvedor apaixonado por software livre e colaboração  
+- 🛠️ Contribuidor ativo em projetos open source (traduções, documentação e código)  
+- 🌱 Sempre aprendendo novas tecnologias e compartilhando conhecimento  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- Linguagens: JavaScript, Python, Go  
+- Frameworks: React, Flask  
+- Ferramentas: Git, GitHub Actions, Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Contribuições Open Source
+- [Projeto X](link do projeto GitHub) – Correções de bugs e melhorias na documentação  
+- [Projeto Y](link do projeto GitHub) – Implementação de novas funcionalidades em API REST  
+
+## 🤝 Como colaborar comigo
+- Abra uma issue nos meus repositórios  
+- Sugira melhorias via pull request  
+- Entre em contato para projetos colaborativos  
+
+## 📫 Contato  
+- GitHub:(https://github.com/lukas1gb)
+
+---
+✨ Este README foi pensado para a **comunidade open source**, destacando colaboração e contribuições.
