@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou Lukas da cruz
-<img align='center' src= "https://octocat-1763126010845.png" width="215">
-
-
+<img align='center' src="https://octocat-1763126010845.png" width="215">
 ## 🌍 Sobre mim
 - 💻 Desenvolvedor apaixonado por software livre e colaboração  
 - 🛠️ Contribuidor ativo em projetos open source (traduções, documentação e código)  
